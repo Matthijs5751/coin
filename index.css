@@ -63,5 +63,5 @@ video#bgvid {
   transform: translateX(-50%) translateY(-50%);
   background: url(background.mp4) no-repeat;
   background-size: cover;
-  opacity: 0.7;
+  opacity: 0.4;
 }
